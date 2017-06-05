@@ -1,5 +1,5 @@
 # co-git 입니다.
-
+충돌을 수정한 후 push
 
 ```
 git clone https://github.com/tadkim/co-git.git

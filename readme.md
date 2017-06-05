@@ -50,3 +50,16 @@ git commit -m "first commit"
 ```
 `git commit -m "입력내용"`을 통해 변경사항에 대한 간단한 요약설명을 적어준다. 
 
+
+```
+git push origin master
+```
+이건 이후에 branch 생성 후에 이렇게도 쓸 수 있다.
+
+```
+git push origin [push할 브런치명]
+git push origin develop
+git push origin feature
+```
+
+

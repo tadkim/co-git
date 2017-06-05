@@ -1,5 +1,4 @@
-# co-git
-다시한번 수정합니다.
+# co-git Dev
 ```
 git clone https://github.com/tadkim/co-git.git
 cd co-git
